@@ -1,4 +1,4 @@
-# Tic-Tac-Toe AI 🤖
+# Tic-Tac-Toe AI 
 
 A professional, unbeatable Tic-Tac-Toe game built with Python and Tkinter. Play against an AI opponent powered by the **Minimax Algorithm**!
 
@@ -54,14 +54,4 @@ TicTacToe_AI/
    python app.py
    ```
 
-## Screenshots
 
-*(Add screenshots of your gameplay here)*
-> **Tip:** Save your screenshots in the `screenshots/` folder and link them here to showcase the GUI.
-
-## Future Improvements
-
-- Add difficulty levels (Easy, Medium, Unbeatable).
-- Implement sound effects for clicks, wins, and losses.
-- Add player name customization for a personalized experience.
-- Enhance UI with custom images or icons (e.g., in the `assets/` folder).
